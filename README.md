@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">🦾 Stack:</h2>
+<h2 align="center">🦾 Stack</h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -23,14 +23,14 @@
 
    ---
 
-  <h2 align="center">:fire: Stats :</h2>
+  <h2 align="center">:fire: Stats</h2>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kirabortz&theme=github-dark-blue&border_radius=7&card_width=1000" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabortz&layout=compact&card_width=1000&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
- <h2 align="center">🔗 Links:</h2>
+ <h2 align="center">🔗 Links</h2>
 <div id="badges" align="center">
    <a href="https://t.me/BladeDancer69">
   <img src='https://img.shields.io/badge/Telegram-deepskyblue?logo=telegram&logoColor=darkblue&style=for-the-badge' />
