@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/9529784/pub_6450b41e6e459848bb78cfbd_6450b58dbffdce424dc713b3/orig" width="1000"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBidTRhbHQ0dnd5c2VpejRpaGg0cDJuNGFlaWUxZGZjZm12M2hhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOOyywoZerTGp90YPN/giphy.gif" width="400"/>
 </div>
 
-<h3 align="center">👋 Hi friend!</h3>
 <h3 align="center">My name is Kirill</h3>
 <h3 align="center">I'm a Web Developer!</h3>
 
