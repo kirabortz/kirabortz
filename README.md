@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.dzeninfra.ru/get-zen_doc/9529784/pub_6450b41e6e459848bb78cfbd_6450b58dbffdce424dc713b3/orig" width="max-content"/>
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/9529784/pub_6450b41e6e459848bb78cfbd_6450b58dbffdce424dc713b3/orig" width="1000"/>
 </div>
 
 <h3 align="center">👋 Hi friend!</h3>
