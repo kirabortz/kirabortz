@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/storybook/storybook-original.svg" title="StoryBook" alt="storybook" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://static-00.iconduck.com/assets.00/brand-radix-ui-icon-1536x2048-78tvytqz.png" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://static-00.iconduck.com/assets.00/brand-radix-ui-icon-1536x2048-78tvytqz.png" title="Radix UI" alt="Radix UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
