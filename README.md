@@ -1,14 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBidTRhbHQ0dnd5c2VpejRpaGg0cDJuNGFlaWUxZGZjZm12M2hhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOOyywoZerTGp90YPN/giphy.gif" width="400"/>
-</div>
+# <p align='center'>My name is Kirill<p align='center'>I'm a Web Developer!!!</p></p>
 
-<h3 align="center">My name is Kirill</h3>
-<h3 align="center">I'm a Web Developer!</h3>
 
----
+ 
 
-<h2 align="center">🦾 Stack</h2>
-<div align="center">
+ <img  align="right" src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJxc204N2V0ZmZsNTA3MTQ4cWNmbXZpdXdvdjNwN3U2emVkNXJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jz7eUZut4DSl04bz2q/giphy.gif' width='200'/>
+
+
+ <h3>🦾 Stack</h3>
+</br>
+ 
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="typescript" width="40" height="40"/>&nbsp;
@@ -21,13 +22,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-   ---
-
-  <h2 align="center">:fire: Stats</h2>
-  <div id="stat" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=tokyonight" width="842" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=tokyonight" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=tokyonight" width="420" alt=""/>
+</br>
+  <h3>:fire: Stats</h3>
+  <div id="stat">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=tokyonight" width="1012" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=tokyonight" width="503" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=tokyonight" width="503" alt=""/>
 </div>
 
 ---
