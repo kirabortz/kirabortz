@@ -32,8 +32,8 @@
 
 ---
 
- <h2 align="center">🔗 Links</h2>
-<div id="badges" align="center">
+ <h3>🔗 Links</h3>
+<div id="badges">
    <a href="https://t.me/BladeDancer69">
   <img src='https://img.shields.io/badge/Telegram-deepskyblue?logo=telegram&logoColor=darkblue&style=for-the-badge' />
    </a>
