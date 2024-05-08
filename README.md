@@ -30,8 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=tokyonight" width="420" alt=""/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabortz&layout=compact&card_width=1000&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
  <h2 align="center">🔗 Links</h2>
