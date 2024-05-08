@@ -25,9 +25,9 @@
 </br>
   <h3>:fire: Stats</h3>
   <div id="stat">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=tokyonight" width="1012" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=tokyonight" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=tokyonight" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=dark" width="1012" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=dark" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=dark" width="420" alt=""/>
 </div>
 
 ---
