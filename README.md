@@ -24,7 +24,11 @@
    ---
 
   <h2 align="center">:fire: Stats</h2>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kirabortz&theme=github-dark-blue&border_radius=7&card_width=1000" alt="GitHub Streak" /></a>
+  <div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=tokyonight" width="842" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=tokyonight" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=tokyonight" width="420" alt=""/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirabortz&layout=compact&card_width=1000&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
