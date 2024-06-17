@@ -8,7 +8,7 @@
 
  <h3>🦾 Stack</h3>
 </br>
- 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -20,6 +20,12 @@
 <img src="https://static-00.iconduck.com/assets.00/brand-radix-ui-icon-1536x2048-78tvytqz.png" title="Radix UI" alt="Radix UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
+ <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+ <img src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 </div>
 
 </br>
