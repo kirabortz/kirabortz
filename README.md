@@ -23,9 +23,8 @@
  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
  <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
- <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
- <img src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 </div>
 
 </br>
