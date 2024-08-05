@@ -1,4 +1,4 @@
-# <p align='center'>My name is Kirill<p align='center'>I'm a Web Developer!!!</p></p>
+# <p>Welcome! 👋🏻</p>
 
 
  
@@ -24,14 +24,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
-</br>
-  <h3>:fire: Stats</h3>
-  <div id="stat">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirabortz&theme=dark" width="1012" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirabortz&theme=dark" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirabortz&theme=dark" width="420" alt=""/>
 </div>
 
 ---
