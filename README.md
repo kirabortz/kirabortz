@@ -37,13 +37,13 @@
 
  <h3>🔗 Links</h3>
 <div id="badges">
-   <a href="https://t.me/BladeDancer69">
+   <a href="https://t.me/BladeDancer69" target="_blank">
   <img src='https://img.shields.io/badge/Telegram-deepskyblue?logo=telegram&logoColor=darkblue&style=for-the-badge' />
    </a>
-   <a href="https://vk.com/bladedancer">
+   <a href="https://vk.com/bladedancer" target="_blank">
    <img src='https://img.shields.io/badge/vk-deepskyblue?logo=vk&logoColor=darkblue&style=for-the-badge' />
    </a>
-   <a href="https://cube-resume.ru">
+   <a href="https://cube-resume.ru" target="_blank">
    <img src='https://img.shields.io/badge/Site-deepskyblue?logo=anycubic&logoColor=yellow&style=for-the-badge' />
    </a>
    </div>
