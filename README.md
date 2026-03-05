@@ -43,4 +43,7 @@
    <a href="https://vk.com/bladedancer">
    <img src='https://img.shields.io/badge/vk-deepskyblue?logo=vk&logoColor=darkblue&style=for-the-badge' />
    </a>
+   <a href="https://cube-resume.ru">
+   <img src='https://img.shields.io/badge/Site-deepskyblue?logo=anycubic&logoColor=yellow&style=for-the-badge' />
+   </a>
    </div>
