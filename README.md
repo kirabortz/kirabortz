@@ -13,8 +13,6 @@
     <td><img src="https://github.com/user-attachments/assets/ae6ab91a-86ac-44e4-bbf0-ab9f6c4cafbc" title="WinSCP" alt="WinSCP" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/></td>
     <td><img src="https://img.crm-onebox.com//media/b4/bf/b4bfaafd22607198baa4aa8f0a57e611.png" title="Tilda" alt="Tilda" width="40" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b6227a7e-d283-4fd4-a41a-68eefff719db" title="AI Tools" alt="AI Tools" width="40" height="40"/></td>
-    <td><img src="https://github.com/user-attachments/assets/070e9dd0-f1c5-40af-9bb3-d25bf426f29c" title="Custom Solutions" alt="Custom Solutions" width="40" height="40"/></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/storybook/storybook-original.svg" title="StoryBook" alt="storybook" width="40" height="40"/></td>
@@ -26,8 +24,6 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="WebPack" alt="WebPack" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/></td>
     <td><img src="https://github.com/user-attachments/assets/5086fa0a-9c3c-43f4-82af-1a2a73d62fc2" title="Telegram API" alt="Telegram API" width="40" height="40"/></td>
-   <td><img src="https://play-lh.googleusercontent.com/Vm1m6FinRA0ZTFgTJ5BazNknbFJv_is9kno3bi_Hl_QCjiMkU8DqcYvy2tLAHi87Y0i2" title="Bitrix" alt="Bitrix" width="40" height="40"/></td>
-   <td><img src="https://cdn.worldvectorlogo.com/logos/bitrix.svg" title="1C-Bitrix" alt="1C-Bitrix" width="40" height="40"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/></td>
@@ -39,6 +35,12 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" title="Figma" alt="Figma" width="40" height="40"/></td>
    <td><img src="https://github.com/user-attachments/assets/9239f019-8455-4edc-a684-00cb7b07811b" title="CI/CD" alt="CI/CD" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b6227a7e-d283-4fd4-a41a-68eefff719db" title="AI Tools" alt="AI Tools" width="40" height="40"/></td>
+    <td><img src="https://github.com/user-attachments/assets/070e9dd0-f1c5-40af-9bb3-d25bf426f29c" title="Custom Solutions" alt="Custom Solutions" width="40" height="40"/></td>
+   <td><img src="https://play-lh.googleusercontent.com/Vm1m6FinRA0ZTFgTJ5BazNknbFJv_is9kno3bi_Hl_QCjiMkU8DqcYvy2tLAHi87Y0i2" title="Bitrix" alt="Bitrix" width="40" height="40"/></td>
+   <td><img src="https://cdn.worldvectorlogo.com/logos/bitrix.svg" title="1C-Bitrix" alt="1C-Bitrix" width="40" height="40"/></td>
    <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/></td>
    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></td>
   </tr>
