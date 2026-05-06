@@ -1,6 +1,5 @@
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=360&height=100&repeat=false&backgroundColor=%23000000&backgroundOpacity=0&center=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Welcome%F0%9F%91%8B%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%235c14c8%22%2C%22fontSize%22%3A35%2C%22typingSpeed%22%3A0.14285714285714285%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22900%22%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22I%27m+a+Frontend+Developer%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%230091ff%22%2C%22fontSize%22%3A30%2C%22letterSpacing%22%3A%22%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22800%22%7D%5D" alt="Typing SVG" /></a>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=360&height=100&repeat=false&backgroundColor=%23000000&backgroundOpacity=0&center=false&border=false&cursorStyle=block&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Welcome%F0%9F%91%8B%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%2331086c%22%2C%22fontSize%22%3A35%2C%22typingSpeed%22%3A0.14285714285714285%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22900%22%2C%22lineHeight%22%3A1.5%7D%2C%7B%22text%22%3A%22I%27m+a+Frontend+Developer%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%2326b8ee%22%2C%22fontSize%22%3A30%2C%22letterSpacing%22%3A%22%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.5%2C%22fontWeight%22%3A%22800%22%7D%5D" alt="Typing SVG" /></a>
 <img align="right" src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJxc204N2V0ZmZsNTA3MTQ4cWNmbXZpdXdvdjNwN3U2emVkNXJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jz7eUZut4DSl04bz2q/giphy.gif' width='235'/>
-
 
 ### <p>🦾&nbsp;Stack</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" />&nbsp;
@@ -40,9 +39,9 @@
 ### <b>🔗 Links</b>
 <div id="badges">
    <a href="https://t.me/bladedancer69" target="_blank">
-  <img src='https://img.shields.io/badge/Telegram-deepskyblue?logo=telegram&logoColor=darkblue&style=for-the-badge' />
+  <img src='https://img.shields.io/badge/Telegram-26b8ee?logo=telegram&logoColor=white&style=for-the-badge' />
    </a>
    <a href="https://cube-resume.ru" target="_blank">
-   <img src='https://img.shields.io/badge/Site-deepskyblue?logo=anycubic&logoColor=yellow&style=for-the-badge' />
+   <img src='https://img.shields.io/badge/Site-31086c?logo=anycubic&logoColor=yellow&style=for-the-badge' />
    </a>
 </div>
