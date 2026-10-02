@@ -41,7 +41,5 @@
    <a href="https://t.me/bladedancer69" target="_blank">
   <img src='https://img.shields.io/badge/Telegram-26b8ee?logo=telegram&logoColor=white&style=for-the-badge' />
    </a>
-   <a href="https://cube-resume.ru" target="_blank">
-   <img src='https://img.shields.io/badge/Site-31086c?logo=anycubic&logoColor=yellow&style=for-the-badge' />
-   </a>
+  
 </div>
